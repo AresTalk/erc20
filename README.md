@@ -1,4 +1,4 @@
-# erc20
+# Erc-20 standard token 
 Code for create token erc20
 The token ownner will be assigned to the contract creator
 
